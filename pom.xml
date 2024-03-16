@@ -48,9 +48,9 @@
 	</pluginRepositories>
 	
 	<plugin>
-   		<groupId>org.codehaus.mojo</groupId>
-   		<artifactId>sonar-maven-plugin</artifactId>
-   		<version>1.0</version>
+   	   <groupId>org.codehaus.mojo</groupId>
+   	   <artifactId>sonar-maven-plugin</artifactId>
+   	   <version>1.0</version>
 	</plugin>
 	
 </project>
